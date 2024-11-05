@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+coverage/
+*.tgz
+
+# Logs
+logs/
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp/
+tmp/
+
+# Ignore all test coverage reports
+coverage/
+
+# Ignore local npm files
+package-lock.json
+npm-debug.log*
+
+# Ignore eslint and prettier cache files
+.eslintcache
+.prettierignore
